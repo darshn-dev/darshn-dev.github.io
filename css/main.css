@@ -2597,4 +2597,21 @@ footer .copyright span:last-child::after {
 	background: #000000;
 }
 
+.skill-highlight{
+	white-space: nowrap;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+	padding-top: 0.5em;
+	padding-bottom: 0.4em;
+	background-color: #bdbcbc;
+	color: #000;
+	margin: 0.2em;
+	border-radius: 15px;
+	margin-top: 0.8em
+}
+
+.skill-container{
+	margin-top: 00.8em;
+}
+
 /*# sourceMappingURL=main.css.map */
