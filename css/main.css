@@ -2253,6 +2253,7 @@ header .logo a {
 	background: #151515;
 	padding-top: 12rem;
 	padding-bottom: 7.2rem;
+	visibility:collapse;
 }
 #contact .section-intro h1 {
 	color: white;
